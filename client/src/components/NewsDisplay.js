@@ -78,7 +78,7 @@ const NewsDisplay = (props) => {
       <div
         className="text-center text-white p-1 bg-dark"
       >
-        © 2023 Copyright:
+        © 2024 Copyright:
         <h6>Shashwat Raj</h6>
           
       </div>
